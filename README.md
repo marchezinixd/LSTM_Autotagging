@@ -20,7 +20,7 @@ The final version used GPUs to process faster.
 
 The pdf is in portuguese, but it describe all the methodology and the tests made, with all the references used.
 
-The Last.fm and MSD can be found in the link:
+The Last.fm dataset and Million Song Dataset can be found in the link:
 
 - https://labrosa.ee.columbia.edu/millionsong/
 
